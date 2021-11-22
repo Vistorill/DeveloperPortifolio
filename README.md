@@ -7,6 +7,6 @@ o controle das tarefas desse projeto sera realizada no GitHub
 ### Icones
 :package:Nova funcionalidade
 :up:atualização
-:beetle:correção de bug
-:alien:release
+:beetle:Correção de bug
+:gift:release
 
