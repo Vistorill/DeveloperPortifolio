@@ -8,5 +8,5 @@ o controle das tarefas desse projeto sera realizada no GitHub
 :package:Nova funcionalidade
 :up:atualização
 :space_invader:correção de bug
-:checkred:release
+:alien:release
 
